@@ -10,15 +10,16 @@
 ###
 
 <div align="center">
+<img height="250" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lluu22kvad8jm0pwidgjw5g52tol0krafz5bloco&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="30" alt="powerbi logo" />
 </div>
-
-###
-
-<!--><img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ0bjNmeWUxZjF5azBvMjB0anVlaHBpMXduY2dxaWoxaDJtNnd4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"  />
 
 ###
 
@@ -41,5 +42,3 @@
 </div>
 
 ###
-
-
