@@ -40,14 +40,4 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://github.com/Gui-San/Gui-San/blob/main/workflows/snake.yml" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
