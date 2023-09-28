@@ -1,4 +1,4 @@
-<h2 align="center">Hello 👋! My name is Guilherme Teixeira and I am a beginner programmer, with the dream of becoming a Data Scientist, I am currently familiar with Python and Power BI, from Brazil</h2>
+<h2 align="center">Hello 👋! My name is Guilherme Teixeira and I am a beginner programmer, with the dream of becoming a Data Scientist, I am currently familiar with Python and Power BI, from Brazil 🇧🇷 </h2>
 
 ###
 
