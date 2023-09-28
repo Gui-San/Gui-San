@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="[https://raw.githubusercontent.com/Gui-San/Gui-San/output/snake.svg](https://github.com/Gui-San/Gui-San/blob/main/workflows/snake.yml)https://github.com/Gui-San/Gui-San/blob/main/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Gui-San/Gui-San/blob/main/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
