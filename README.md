@@ -3,13 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gui-San&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gui-San&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gui-San&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="140" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ0bjNmeWUxZjF5azBvMjB0anVlaHBpMXduY2dxaWoxaDJtNnd4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"  />
 
 ###
 
@@ -19,6 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
   <img src="https://logos-world.net/wp-content/uploads/2022/02/Power-BI-Logo.png" height="30" alt="powerbi logo" />
 </div>
+
+###
+
+<img align="center" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjQ0bjNmeWUxZjF5azBvMjB0anVlaHBpMXduY2dxaWoxaDJtNnd4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYW0hHizzIOrlhimPG/giphy.gif"  />
 
 ###
 
